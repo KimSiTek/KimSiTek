@@ -1,16 +1,18 @@
-## Hi there 👋
+### Kim SiTek
 
-<!--
-**KimSiTek/KimSiTek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**Experience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**World Blinds Australia** — IT
+Feb 2026 – Present
+
+- Sole developer of BlindFlow, an in-house production management system, covering design, development, deployment and operations
+- Built three portals (Office, Factory Kiosk, Client) with real-time status updates over WebSocket
+
+Spring Boot · Java 21 · PostgreSQL · Next.js · Docker · AWS
+
+**Gachon University SW Academy** — 7th Cohort
+Sep 2025 – Dec 2025 · Completed
+
+<br>
