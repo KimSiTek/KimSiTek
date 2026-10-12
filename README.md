@@ -1,7 +1,5 @@
 <br>
 
-**Experience**
-
 **World Blinds Australia** IT
 <br>(Feb 2026 ~ Present)
 
